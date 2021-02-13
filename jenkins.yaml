@@ -9,7 +9,7 @@ credentials:
           secret: "{yoursecret}"
       - usernamePassword:
           id: "github"
-          password: "{yoursecret}"
+          password: "phani@Gh15"
           scope: GLOBAL
       - aws:
           accessKey: "AKIAIGOTSCZETCYDKTYA"
