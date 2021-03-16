@@ -12,11 +12,11 @@ credentials:
           password: "phani@Gh15"
           scope: GLOBAL
       - aws:
-          accessKey: "AKIAIGOTSCZETCYDKTYA"
+          accessKey: "ABCDEFGHIJKL"
           description: "aws credentials"
           id: "awspass"
           scope: GLOBAL
-          secretKey: "IaovJObqXHGHMDspwoqQA3pWPM0KAFb4y6Ro1uu6"
+          secretKey: "ABCD0123"
 jenkins:
   agentProtocols:
   - "JNLP4-connect"
